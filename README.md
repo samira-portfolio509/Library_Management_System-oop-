@@ -15,14 +15,4 @@
 - **Concepts:** Encapsulation, Inheritance, Polymorphism, Abstraction
 - **Build Tool:** Maven/Gradle (Optional)
 
-## 🚀 কীভাবে রান করবেন
-১. প্রথমে রিপোজিটরি ক্লোন করুন:
-   ```bash
-   git clone https://github.com
-   ```
-২. আপনার ফেভারিট IDE-তে (IntelliJ IDEA/Eclipse/VS Code) প্রজেক্টটি ওপেন করুন।
-৩. `Main.java` ফাইলটি রান করুন।
 
-## 📁 ফাইল স্ট্রাকচার
-- `src/`: সব সোর্স কোড (.java ফাইল) এখানে আছে।
-- `.github/`: অটোমেটেড বিল্ড কনফিগারেশন।
